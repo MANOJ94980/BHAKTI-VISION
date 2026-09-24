@@ -1,0 +1,6 @@
+{
+  "name": "BhaktiVision AI",
+  "description": "Your Face. Your Identity. Your Devotional Form. AI-powered identity-preserving devotional image transformations inspired by Indian spiritual traditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
